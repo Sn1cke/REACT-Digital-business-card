@@ -4,7 +4,7 @@ import { Icon } from "@iconify/react";
 export default function Info() {
   return (
     <div className="info-container">
-      <div className="about-img"></div>
+      <img src="./src/placeholder.png" alt="placeholder" />
       <h2>Niclas Broberg</h2>
       <h4 className="title">Frontend Developer</h4>
       <div className="buttons">
