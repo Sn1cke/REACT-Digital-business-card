@@ -12,15 +12,15 @@ body {
 #root {
   margin: auto;
   width: 550px;
-  padding: 2rem;
+  padding: 5rem;
   background-color: #23252c;
-  border-radius: 6px;
+  border-radius: 8px;
 }
 
 #app-container {
   border-radius: 2rem;
   margin: auto;
-  width: 22rem;
+  width: 23rem;
   background-color: #1a1b21;
 }
 
@@ -31,14 +31,14 @@ body {
   align-items: center;
 
   h2 {
-    font-size: 28px;
+    font-size: 2rem;
     color: #ffffff;
     font-weight: 600;
     margin-top: 1rem;
   }
 
   h4 {
-    font-size: 1rem;
+    font-size: 1.1rem;
     color: #f3bf99;
     font-weight: 400;
   }
@@ -55,6 +55,7 @@ body {
     height: 32px;
     width: 120px;
     border-radius: 6px;
+    font-size: 1rem;
   }
 
   .buttons {
@@ -97,11 +98,11 @@ body {
   color: #f5f5f5;
 
   h3 {
-    font-size: 18px;
+    font-size: 1.4rem;
     font-weight: 600;
   }
   p {
-    font-size: 12px;
+    font-size: 0.8rem;
     font-weight: 300;
   }
 }
@@ -113,11 +114,11 @@ body {
   color: #f5f5f5;
 
   h3 {
-    font-size: 18px;
+    font-size: 1.4rem;
     font-weight: 600;
   }
   p {
-    font-size: 12px;
+    font-size: 0.8rem;
     font-weight: 300;
   }
 }
