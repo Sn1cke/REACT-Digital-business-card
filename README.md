@@ -10,7 +10,6 @@ Visit my [github pages](https://sn1cke.github.io/REACT-Digital-business-card/) t
 
 ## Technologies and Framework
 
-- Typescript
 - HTML
 - SASS
 - React
